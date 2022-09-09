@@ -1,6 +1,7 @@
 // npm --save-dev nodemon => Para uqe se reinicie el servidor cada vez que se hacen cambios en el JS
 // npm i hbs => Para poder utilizar hbs con las views, partials, etc
 // npm i dotenv => Para poder usar variables de entorno
+// git push -u branchGitHub branchGitRemote para actualizar cambios
 
 require('dotenv').config()
 const express = require('express');
